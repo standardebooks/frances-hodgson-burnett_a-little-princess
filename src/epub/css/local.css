@@ -7,6 +7,17 @@ header{
 
 footer{
 	font-variant: small-caps;
-	margin-top: 1em;
+	margin: 1em 1em 0em 0em;
+	text-align: right;
+}
+
+#chapter-1 blockquote{
+	margin: 1em 0em;
+	text-align: center;
+}
+
+#chapter-16 blockquote p:last-child{
+	font-variant: small-caps;
+	margin: 0em 1em 0em 0em;
 	text-align: right;
 }
