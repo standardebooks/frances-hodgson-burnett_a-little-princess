@@ -5,19 +5,14 @@ header{
 	font-variant: small-caps;
 }
 
-footer{
+.epub-type-z3998-signature{
 	font-variant: small-caps;
-	margin: 1em 1em 0em 0em;
+	margin-right: 1em;
 	text-align: right;
 }
 
+/* brass plate */
 #chapter-1 blockquote{
 	margin: 1em 0em;
 	text-align: center;
-}
-
-#chapter-16 blockquote p:last-child{
-	font-variant: small-caps;
-	margin: 0em 1em 0em 0em;
-	text-align: right;
 }
