@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-header{
-	font-variant: small-caps;
-}
-
 .epub-type-z3998-signature{
 	font-variant: small-caps;
 	margin-right: 1em;
@@ -12,7 +8,10 @@ header{
 }
 
 /* brass plate */
-#chapter-1 blockquote{
-	margin: 1em 0em;
+#chapter-1 blockquote p{
 	text-align: center;
+	text-indent: 0;
+}
+#chapter-1 blockquote p:first-child{
+	font-variant: small-caps;
 }
