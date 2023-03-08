@@ -57,8 +57,8 @@
 			&lt;p&gt;Sara Crew, the daughter of a widowed officer stationed in India, has come to London to attend a boarding school. A thoughtful and serious child, she is blessed with, in addition to her father’s wealth, an abundance of kindness and imagination. But not everyone in her new life appreciates Sara for who she is, as she discovers when her circumstances abruptly change.&lt;/p&gt;
 			&lt;p&gt;“Sara Crewe” was originally a short story, serialized in a children’s magazine. Its popularity led the author to expand it into an equally successful stage play, and from there it became a full-length novel. Much like her later children’s book &lt;a href="https://standardebooks.org/ebooks/frances-hodgson-burnett/the-secret-garden"&gt;&lt;i&gt;A Secret Garden&lt;/i&gt;&lt;/a&gt;, its dramatic events and sharply-defined characters give it the qualities of a modern fairy tale.&lt;/p&gt;
 		</meta>
-		<dc:language>en-GB</dc:language>
-		<dc:source>https://www.gutenberg.org/ebooks/146</dc:source>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/37332</dc:source>
 		<dc:source>https://archive.org/details/littleprincessbe00burn</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -74,12 +74,16 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
+		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
+		<dc:contributor id="transcriber-2">eagkw</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">eagkw</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Raiter, Brian</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
