@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
-	margin: 1em 1em 0 0;
+	margin-top: 1em;
 	text-align: right;
 }
 
@@ -16,6 +16,7 @@ footer{
 	text-align: center;
 	text-indent: 0;
 }
+
 #chapter-1 blockquote p:first-child{
 	font-variant: small-caps;
 }
