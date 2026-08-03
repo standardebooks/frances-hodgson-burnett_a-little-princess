@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/frances-hodgson-burnett/a-little-princess</dc:identifier>
 		<dc:date>2023-03-15T21:46:12Z</dc:date>
@@ -54,11 +54,11 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young girl discovers a life of unexpected challenges when she goes to live at a London boarding school.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Sara Crewe, the daughter of a widowed officer stationed in India, has come to London to attend a boarding school. A thoughtful and serious child, she is blessed with both an abundance of kindness and imagination, and her father’s wealth. But not everyone in her new life appreciates Sara for who she is, as she discovers when her circumstances abruptly change.&lt;/p&gt;
 			&lt;p&gt;“Sara Crewe” was originally a short story, serialized in a children’s magazine. Its popularity led the author to expand it into an equally successful stage play, and from there it became this full-length novel. Much like &lt;a href="https://standardebooks.org/ebooks/frances-hodgson-burnett"&gt;Burnett’s&lt;/a&gt; later children’s book &lt;a href="https://standardebooks.org/ebooks/frances-hodgson-burnett/the-secret-garden"&gt;&lt;i&gt;The Secret Garden&lt;/i&gt;&lt;/a&gt;, dramatic events and sharply defined characters give &lt;i&gt;A Little Princess&lt;/i&gt; the qualities of a modern fairy tale.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37332</dc:source>
 		<dc:source>https://archive.org/details/littleprincessbe00burn</dc:source>
