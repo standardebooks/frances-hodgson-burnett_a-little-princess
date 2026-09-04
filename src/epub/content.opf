@@ -37,11 +37,11 @@
 		<dc:title id="fulltitle">A Little Princess: Being the Whole Story of Sara Crewe, Now Told for the First Time</dc:title>
 		<meta property="file-as" refines="#fulltitle">Little Princess, A</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Orphans -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-2">Schools -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-3">Boarding schools -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Girls -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">London (England) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Orphans--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-2">Schools--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Boarding schools--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Girls--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">London (England)--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108726</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
